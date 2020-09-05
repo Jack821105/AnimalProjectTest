@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knjc動物托兒所</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="classfunction">分類</string>
+    <string name="inquiry">查詢</string>
+    <string name="information">資訊</string>
+    <string name="upload">上傳</string>
+    <string name="name">名子</string>
+    <string name="sex">性別</string>
+    <string name="type">動物種類</string>
+    <string name="build">體型</string>
+    <string name="age">年齡</string>
+    <string name="variety">品種</string>
+    <string name="reason">進所原因</string>
+    <string name="acceptNum">收容編號</string>
+    <string name="chipNum">晶片號碼</string>
+    <string name="issterilization">絕育否</string>
+    <string name="hairType">毛色</string>
+    <string name="note">描述</string>
+    <string name="resettlement">位置</string>
+    <string name="phone">聯絡電話</string>
+    <string name="email">email</string>
+    <string name="childreAnlong">可否與其他孩童相處</string>
+    <string name="animalAnlong">可否與其他動物相處</string>
+    <string name="bodyweight">體重</string>
+    <string name="imageName">圖片</string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="back_title_text">請確認是否關閉?</string>
+    <string name="back_msg_text">感謝您的使用!</string>
+    <string name="test">感謝您的使用!</string>
+    
+   
+
+</resources>

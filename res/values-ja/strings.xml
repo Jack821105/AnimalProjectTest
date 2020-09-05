@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knjc動物保育園</string>
+    <string name="action_settings">設定</string>
+    <string name="hello_world">こんにちは、世界！</string>
+    <string name="classfunction">分類</string>
+    <string name="inquiry">検索</string>
+    <string name="information">情報</string>
+    <string name="upload">上载</string>
+    <string name="name">名前</string>
+    <string name="sex">性别</string>
+    <string name="type">ペットの種類</string>
+    <string name="build">体型</string>
+    <string name="age">年齢</string>
+    <string name="variety">品種</string>
+    <string name="reason">理由に</string>
+    <string name="acceptNum">保護所番号</string>
+    <string name="chipNum">チップ番号</string>
+    <string name="issterilization">結紮</string>
+    <string name="hairType">カラー</string>
+    <string name="note">説明</string>
+    <string name="resettlement">場所</string>
+    <string name="phone">連絡</string>
+    <string name="email">メール</string>
+    <string name="childreAnlong">他の子供たちと一緒に取得することができます</string>
+    <string name="animalAnlong">他の動物と一緒に取得することができます</string>
+    <string name="bodyweight">体重</string>
+    <string name="imageName">写真</string>
+    <string name="confirm">確認する</string>
+    <string name="cancel">キャンセル</string>
+    <string name="back_title_text">あなたはオフにすることを確認してください？</string>
+    <string name="back_msg_text">ご利用ありがとうございます！</string>
+    <string name="test">ご利用ありがとうございます！</string>
+
+</resources>

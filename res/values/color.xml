@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="White">#FFFFFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="Blue">#0000FF</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="pure_black">#000000</color>
+    <color name="Black">#000000</color>
+    <color name="Red">#FF0000</color>
+    <color name="light_green">#ebf1de</color>
+    <color name="bright_blue">#00194b</color>
+    <color name="drak_blue">#0c2158</color>
+    <color name="sky_biue">#b8daf6</color>
+    <color name="blue1">#496b9a</color>
+    <color name="grey">#505050</color>
+    <color name="grey_c0c0c0">#c0c0c0</color>
+    <color name="grey_balck">#4e4f51</color>
+    <color name="light_blue_1">#eef7ff</color>
+    <color name="branch_text_color">#00194b</color>
+    <color name="branch_addree_text_color">#505050</color>
+    <color name="gray">#808080</color>
+    <color name="transparent">#0000</color>
+    <color name="dark_blue1">#00194b</color>
+    <color name="grey_484747">#484747</color>
+    <color name="red_ff0000">#ff0000</color>
+    <color name="rate_warning">#7c7c7c</color>
+	<color name="edit_gray">#878787</color>
+    	
+</resources>

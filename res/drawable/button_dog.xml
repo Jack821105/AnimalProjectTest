@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- 非觸控模式下,取得焦點時的圖片(利用軌跡球或鍵盤上下選) -->
+<item android:drawable="@drawable/dog"
+android:state_focused="true" />
+<!-- 觸控模式下,按下時的圖片 -->
+<item android:drawable="@drawable/dog2"
+android:state_pressed="true" />
+<!-- 原始圖片 -->
+<item android:drawable="@drawable/dog" />
+
+</selector>
